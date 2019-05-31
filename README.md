@@ -26,19 +26,19 @@ Main features:
 Related links:
 
 Protothreads: 
-http://www.sics.se/~adam/pt/index.html
+http://dunkels.com/adam/pt/index.html
 
 Download of original Protothreads on which this version is based on:
-http://www.sics.se/~adam/pt/download.html
+http://dunkels.com/adam/pt/download.html
 
 Publications:
-http://www.sics.se/~adam/pt/publications.html
+http://dunkels.com/adam/pt/publications.html
 
 Documentation:
-http://www.sics.se/~adam/pt/pt-1.4-refman/
+http://dunkels.com/adam/pt/pt-1.4-refman/
 
 Protothreads has been developed by Adam Dunkels
-http://www.sics.se/~adam/
+http://dunkels.com/adam
 
 The original Protothreads implementation by Adam Dunkels as been adopted
 to the Arduino platform and is maintained by Benjamin Soelberg.
@@ -46,9 +46,4 @@ to the Arduino platform and is maintained by Benjamin Soelberg.
 The Arduino "implementation" of Protothreads is based on version 1.4 of
 the original Protothreads.
 
-Now, it is developed by Troy Cheung(TroyC.public@gmail.com).
-
-email benjamin.soelberg@gmail.com
-blog  http://www.kukkuk.dk
-www   http://www.javadesign.dk
 
